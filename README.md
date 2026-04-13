@@ -118,7 +118,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ### 🔹 Python
 
 ```bash
-pip install pandas numpy matplotlib seaborn
+pip install pandas
 python script.py
 ```
 
