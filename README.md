@@ -28,7 +28,7 @@ This project demonstrates an end-to-end data analytics workflow, starting from r
 ## 🛠️ Tools & Technologies
 
 * **Python** (Pandas)
-* **SQL** (MySQL / PostgreSQL / SQL Server)
+* **SQL** (MySQL)
 * **Power BI** (Dashboard & Visualization)
 * **Excel** (Basic validation & transformation)
 * **Gamma** (Presentation creation)
